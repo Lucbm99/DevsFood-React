@@ -67,4 +67,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # DevsFood-React
-# DevsFood-React
+Food project made using ReactJS on the B7Web platform. Original Code: Bonikey Lacerda. Platform: http://alunos.b7web.com.br/
