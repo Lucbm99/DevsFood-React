@@ -1,70 +1,53 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # DevsFood-React
-Food project made using ReactJS on the B7Web platform. Original Code: Bonikey Lacerda. Platform: http://alunos.b7web.com.br/
+Projeto de uma padaria realizado utilizando ReactJS na plataforma B7Web, para fins de estudo. 
+Código Original: Bonikey Lacerda. 
+Plataforma: http://alunos.b7web.com.br/
+
+## 🚀 Instruções 
+Para que você veja o código do projeto funcionando em sua máquina, serão disponibilizadas algumas instruções no tópico 🔧 Como rodar o projeto? 
+
+### 📋 Pré-requisitos
+Para isso, você irá precisar basicamente ter um editor de código em sua máquina (Visual Studio Code, Sublime Text, etc), um navegador para acesso (Google Chrome, Opera, Mozilla Firefox) e, para versionar o código, ter o Git instalado. Pode ser utilizado o prompt de comando de seu computador, da mesma forma. Além deles, será necessário ter o Node.js instalado e o gerenciador de pacotes NPM também.
+
+Links úteis: 
+VS Code: https://code.visualstudio.com/
+Git: https://git-scm.com/
+Sublime Text: https://www.sublimetext.com/
+NodeJS: https://nodejs.org/en/
+Npm: https://www.npmjs.com/
+
+### 🔧 Como rodar o projeto? 
+
+## 1 - Primeiro faça o clone desse repositório com o comando: git clone https://github.com/Lucbm99/DevsFood-React.git, com o prompt de comando ou o Git Bash, em qualquer pasta de seu computador.
+
+## 2 - Após isso, deverá ser digitado no terminal na pasta de seu projeto, o comando npm install.
+
+## 3 - Feita a instalação do npm, é necessário digitar o comando npm start, para abrir a aplicação, que estará disponível em http://localhost:3000 em seu computador.
+
+
+## 📦 Status da aplicação
+🚧  Finalizado 🚧
+
+
+## 🛠️ Feito com
+* [NodeJS](https://nodejs.org/en/)
+* [ReactJS](https://reactjs.org/docs/getting-started.html)
+* [Git](https://git-scm.com/downloads)
+* [NPM](https://www.npmjs.com/)
+
+## ✒️ Licença 
+Consulte o arquivo LICENSE.md, para maiores detalhes.
+
+## ✒️ Autores
+Calculadora feita por mim - [Lucbm99](https://github.com/Lucbm99)
+
+
+## 🎁 Agradecimentos
+* Site feito para estudos, que aprendi muito bem. Obrigado a todos e a Deus pela oportunidade!
+
+
+---
+⌨️ com ❤️ por [Lucas Baradel](https://github.com/Lucbm99) 😊
+
+
+
