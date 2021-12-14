@@ -29,6 +29,8 @@ Npm: https://www.npmjs.com/
 
 ## 3 - Feita a instalação do npm, é necessário digitar o comando npm start, para abrir a aplicação, que estará disponível em http://localhost:3000 em seu computador.
 
+![image](https://user-images.githubusercontent.com/45500959/145910803-00c501e2-890b-46bb-877f-8e7ad7a6a4d6.png)
+
 
 ## 📦 Status da aplicação
 🚧  Finalizado 🚧
@@ -44,7 +46,7 @@ Npm: https://www.npmjs.com/
 Consulte o arquivo LICENSE.md, para maiores detalhes.
 
 ## ✒️ Autores
-Calculadora feita por mim - [Lucbm99](https://github.com/Lucbm99)
+Projeto feito por mim - [Lucbm99](https://github.com/Lucbm99)
 
 
 ## 🎁 Agradecimentos
